@@ -1,10 +1,4 @@
-نعم. هذا هو النص الكامل المصحح الذي يفترض أن يكون داخل:
-
-docs/SI_ENTITY_SPEC.md
-
-انسخه كما هو:
-
-# BGGQFsi — SI Entity Specification v0.1
+ # BGGQFsi — SI Entity Specification v0.1
 ## 1. Purpose
 An **SI Entity** is a persistent Synthetic Intelligence unit within BGGQFsi.
 It is more than a prompt or a single model invocation. An SI Entity is a defined computational identity with capabilities, state, permissions, objectives, execution history, and measurable results.
